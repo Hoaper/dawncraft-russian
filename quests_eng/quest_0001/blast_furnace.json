@@ -1,0 +1,36 @@
+{
+  "parent": "quest_giver:root",
+  "reputation": 10,
+  "icon": "minecraft:blast_furnace",
+  "start": {
+    "title": {
+      "text": "Узнайте, как пользоваться доменной печью"
+    },
+    "description": {
+      "text": "Вы хотите научиться пользоваться доменной печью? Это обойдется тебе в 18 изумрудов."
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "Here ya go."
+    },
+    "description": {
+      "text": "Here ya go. Simple isn't it? Haha!"
+    }
+  },
+  "tasks": [
+    {
+      "item": {
+        "item": "minecraft:emerald"
+      },
+      "id": "quest_giver:gift",
+      "times": 18
+    }
+  ],
+  "rewards": [
+    {
+      "command": "/pmmo admin @p add endurance level 1",
+      "id": "quest_giver:command"
+    }
+  ]
+}

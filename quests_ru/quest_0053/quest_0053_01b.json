@@ -1,0 +1,1 @@
+{"parent": "quest_giver:root", "reputation": 0, "icon": "minecraft:wheat_seeds", "start": {"title": {"text": "Отлично, не могли бы вы принести мне $(red)2 луковицы$()?"}, "description": {"text": "Отлично, не могли бы вы принести мне $(red)2 луковицы$()?"}}}
