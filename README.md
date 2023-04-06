@@ -1,7 +1,7 @@
 # DawnCraft Russian Translate
 #### DawnCraft русский перевод
 [скачать мод](https://www.curseforge.com/minecraft/modpacks/dawn-craft)
-(Актуально для версии: 1.11 другие не тестились)
+(Актуально для версии: 1.4 другие не тестились)
 ## :heavy_plus_sign: перевод сделать при помощи сервиса [MyMemory](https://mymemory.translated.net/)
 
 ## :gem: Переведено:
